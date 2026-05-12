@@ -135,3 +135,4 @@ C:\Users\ADMIN\source\repos\ClinicaAPI\ClinicaAPI\obj\Debug\net8.0\refint\Clinic
 C:\Users\ADMIN\source\repos\ClinicaAPI\ClinicaAPI\obj\Debug\net8.0\ClinicaAPI.pdb
 C:\Users\ADMIN\source\repos\ClinicaAPI\ClinicaAPI\obj\Debug\net8.0\ClinicaAPI.genruntimeconfig.cache
 C:\Users\ADMIN\source\repos\ClinicaAPI\ClinicaAPI\obj\Debug\net8.0\ref\ClinicaAPI.dll
+C:\Users\ADMIN\source\repos\ClinicaAPI\ClinicaAPI\obj\Debug\net8.0\ClinicaAPI.sourcelink.json

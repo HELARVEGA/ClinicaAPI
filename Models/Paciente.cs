@@ -9,5 +9,13 @@
         public int Edad { get; set; }
 
         public string Diagnostico { get; set; }
+
+        public string Telefono { get; set; }
+
+        public string Direccion { get; set; }
+
+        public string CorreoElectronico { get; set; }
+
+        public DateTime FechaRegistro { get; set; }
     }
 }
